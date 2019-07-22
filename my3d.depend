@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1425323636 source:c:\users\sasha\downloads\11sfml projects\minecraft\code and exe\code\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/OpenGL.hpp>
+	<iostream>
+	"helpFile.hpp"
+
+1563705728 c:\users\sasha\downloads\11sfml projects\minecraft\code and exe\code\helpfile.hpp
+	<SFML/OpenGL.hpp>
+	<GL/gl.h>
+	<GL/freeglut.h>
+
+1563785533 source:c:\users\sasha\documents\cppprojects\my3d\code\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/OpenGL.hpp>
+	<iostream>
+	<GL/glu.h>
+	<math.h>
+	"helpFile.hpp"
+
+1563785738 c:\users\sasha\documents\cppprojects\my3d\code\helpfile.hpp
+	<SFML/OpenGL.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	<GL/gl.h>
+	<GL/freeglut.h>
+
